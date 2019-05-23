@@ -22,11 +22,14 @@
   import Contact from "./pages/Contact.vue";
   import Portfolio from "./pages/Portfolio.vue";
 
+  import HeadlinesProject from "./pages/HeadlinesProject.vue";
+
   const routes = [
     { path: '/', component: Home }, 
     { path: '/about', component: About }, 
     { path: '/contact', component: Contact }, 
-    { path: '/portfolio', component: Portfolio }
+    { path: '/portfolio', component: Portfolio },
+    { path: '/headlines-project', component: HeadlinesProject }
   ];
 
   const router = new VueRouter({
