@@ -33,7 +33,7 @@
     "file-loader": "^3.0.1",
     "firebase": "^5.9.1",
     "jasmine": "^3.3.1",
-    "karma": "^4.0.1",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^2.0.1",
     "karma-webpack": "^3.0.5",
